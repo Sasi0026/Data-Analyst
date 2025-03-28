@@ -1,6 +1,6 @@
 # Data-Analyst
 
-# 📊 Data Analyst Portfolio | Data Visualization | SQL | Python | Machine Learning | Kaggle | Tableau | Power BI | Excel | R  
+## 📊 Data Analyst Portfolio | Data Visualization | SQL | Python | Machine Learning | Kaggle | Tableau | Power BI | Excel | R  
 
 Welcome to my **Data Analyst Portfolio**! 🚀 This repository showcases my projects in **data analysis, visualization, and predictive modeling** using a variety of tools and technologies.  
 
